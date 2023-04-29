@@ -1,0 +1,7 @@
+Peso promedio: 60.2
+IMC de cada paciente:
+Paciente 1: IMC = 27.94
+Paciente 2: IMC = 17.99
+Paciente 3: IMC = 25.97
+Paciente 4: IMC = 20.83
+Porcentaje de pacientes con sobrepeso: 50.0%
